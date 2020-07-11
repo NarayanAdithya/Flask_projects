@@ -12,3 +12,7 @@ body {
 canvas{
   position: absolute;
 }
+#video
+{
+  width:30%;
+}
