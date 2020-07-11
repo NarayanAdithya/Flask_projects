@@ -1,4 +1,8 @@
-# Face detection using Face-Api.js and Flask
+Guys install these modules / add extensions:
+
+pip install Flask
+conda install -c anaconda flask
 
 
-Usage of Face-Api.js in Flask Python server to reduce the compute resources consumption and integrate TF.js resources with Flask by using sockets
+pip install Flask-SocketIO
+conda install -c conda-forge flask-socketio
